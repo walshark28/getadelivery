@@ -1,0 +1,15 @@
+const embedElement = document.querySelector('.target-dom-node') // NOTE: `.target-dom-node` is the target DOM element from your website or web app
+
+typeformEmbed.makeWidget(
+  embedElement,
+  'https://developerplatform.typeform.com/to/Xc7NMh', // NOTE: Replace with your typeform URL
+  {
+    hideHeaders: true,
+    hideFooter: true,
+    opacity: 75,
+    buttonText: "Take the survey!",
+    onSubmit: function () {
+      console.log('Typeform successfully submitted')
+    }
+  }
+)
