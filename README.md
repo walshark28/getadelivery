@@ -1,4 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to Get a Delivery
+
+Sign Up Today
+Enter a grocery store below, and we'll notify you by email and text as soon as a time slot for delivery becomes available.
+It costs just $10 per store.
 
 You can use the [editor on GitHub](https://github.com/walshark28/getadelivery/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
